@@ -1,56 +1,5 @@
-Ordinal:
-LotShape
-LandContour
-Utilities
-LandSlope
-HouseStyle
-ExterQual
-ExterCond
-BsmtQual
-BsmtCond
-BsmtExposure
-BsmtFinType1
-BsmtFinType2
-HeatingQC
-KitchenQual
-Functional
-FireplaceQu
-GarageFinish
-GarageQual
-GarageCond
-PavedDrive
-PoolQC
-Fence
-
-One Hot:
-Street
-Alley
-CentralAir
-BldgType
-
-
-
-TBC:
-SaleType
-SaleCondition
-
-Many Cat:
-MSSubClass
-MSZoning
-Neighborhood
-Condition1
-Condition2
-LotConfig
-RoofStyle
-RoofMatl
-Exterior1st
-Exterior2nd
-MasVnrType
-Foundation
-Heating
-Electrical
-GarageType
-MiscFeature
+Ordinal: ["LotShape","LandContour","Utilities","LandSlope","HouseStyle","ExterQual","ExterCond","BsmtQual","BsmtCond","BsmtExposure","BsmtFinType1","BsmtFinType2","HeatingQC","KitchenQual","Functional","FireplaceQu","GarageFinish","GarageQual","GarageCond","PavedDrive","PoolQC","Fence","","One Hot:","Street","Alley","CentralAir","BldgType"]
+Many Cat: ["SaleType","SaleCondition","MSSubClass","MSZoning","Neighborhood","Condition1","Condition2","LotConfig","RoofStyle","RoofMatl","Exterior1st","Exterior2nd","MasVnrType","Foundation","Heating","Electrical","GarageType","MiscFeature"]
 
 
 
